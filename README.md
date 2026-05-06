@@ -1,2 +1,0 @@
-# whitecourt-sec
-ReadMe
